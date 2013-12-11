@@ -43,7 +43,7 @@ public class RegisterViewer
 		
 		JFrame frame = new JFrame();
 		frame.setSize(500,600);
-		frame.setTitle("Tom's register machine");
+		frame.setTitle("Register machine simulator");
 		//Create the buttons
 		copyButton = new JButton("Copy values into registers.");
 		stepButton = new JButton("Step");
