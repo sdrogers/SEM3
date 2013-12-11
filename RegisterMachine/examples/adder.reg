@@ -1,0 +1,4 @@
+1,1,0,1 : zero register 1
+1,0,2,3 : decrement register 0
+0,1,1 : increment register 1
+2
